@@ -1,8 +1,7 @@
 # Thunderbird-Fluent - Un thème Fluent Design pour Thunderbird
 
-![Thunderbird](https://img.shields.io/badge/Thunderbird-128.0-darkblue?style=for-the-badge&logo=thunderbird)
+![Thunderbird](https://img.shields.io/badge/Thunderbird-146.0.1-darkblue?style=for-the-badge&logo=thunderbird)
 ![CSS](https://img.shields.io/badge/CSS3-Modern-blue?style=for-the-badge&logo=css3)
-![Fluent Design](https://img.shields.io/badge/Fluent_Design-2.0-0078D4?style=for-the-badge&logo=microsoft)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0.0-ff69b4?style=for-the-badge)
